@@ -20,12 +20,12 @@ Uma pagina construida com o proposito pessoal, criar uma listagem de usuario em 
 
 Clone this project: 
 ```bash
-  git clone 
-  cd gopizza
+  git clone https://github.com/hevair/React-ListaUsuario.git
+  cd React-ListaUsuario
   npm install
 ```
 
-Start App with `npm install` ene `npm run dev`
+Start App with  `npm run dev`
 
 
 ## Feedback 
